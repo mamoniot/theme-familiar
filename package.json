@@ -1,0 +1,22 @@
+{
+    "name": "theme-familiar",
+    "displayName": "theme-familiar",
+    "description": "yolo",
+    "version": "0.0.1",
+    "publisher": "mami",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Familiar",
+                "uiTheme": "vs-dark",
+                "path": "./themes/familiar.json"
+            }
+        ]
+    }
+}
