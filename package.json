@@ -1,22 +1,36 @@
 {
-    "name": "theme-familiar",
-    "displayName": "theme-familiar",
-    "description": "yolo",
-    "version": "0.0.1",
-    "publisher": "mami",
-    "engines": {
-        "vscode": "^1.64.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Familiar",
-                "uiTheme": "vs-dark",
-                "path": "./themes/familiar.json"
-            }
-        ]
-    }
+	"name": "theme-familiar",
+	"displayName": "theme-familiar",
+	"description": "yolo",
+	"version": "0.0.1",
+	"publisher": "mami",
+	"engines": {
+		"vscode": "^1.64.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mamoniot/theme-familiar.git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Familiar",
+				"uiTheme": "vs-dark",
+				"path": "./themes/familiar-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "ecf1a4bf-48b9-4c50-930c-070c6089eba2",
+		"publisherId": "284b9b91-1aa9-43a3-8609-f2b224e47a9e",
+		"publisherDisplayName": "mami",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1655267294476
+	}
 }
