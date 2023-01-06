@@ -70,7 +70,7 @@
 				"meta.definition.variable.name",
 				"support.variable",
 				"entity.name.variable",
-				"entity.other.attribute-name",
+				"entity.other.attribute",
 				"entity.name.tag",
 				"variable.other.property"
 			],
@@ -152,7 +152,6 @@
 				"entity.name.class",
 				"entity.name.type",
 				"entity.name.namespace",
-				"entity.other.attribute",
 				"entity.name.scope-resolution",
 				"entity.name.class",
 				"storage.modifier"
